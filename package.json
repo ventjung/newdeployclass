@@ -1,0 +1,16 @@
+{
+  "name": "firstdeploy",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "jest": "^30.2.0"
+  }
+}
